@@ -1,5 +1,5 @@
-# PADC_Final_Project_Interactive_Training_APP
-PADC final project interactive training app
+# PADC-FP-Interactive-Class
+PADC-FP-Interactive-Class
 Two Developers
 -Htoo Maung Thait
 -Nay Lin Aung
